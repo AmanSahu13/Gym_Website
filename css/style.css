@@ -178,7 +178,7 @@ line-height: 9px;
     
 }
 
-@media (min-width: 360px) and (max-width:620px){
+@media (min-width: 320px) and (max-width:620px){
     body{
         font-family: 'Baloo Bhai',cursive;
         margin: 0px;
